@@ -1,4 +1,3 @@
-fts_touch_i2c.ko
 mkp.ko
 bootprof.ko
 dbgtop-drm.ko
