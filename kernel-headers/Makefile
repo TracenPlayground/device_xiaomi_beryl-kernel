@@ -1,5 +1,5 @@
-VERSION = 5
-PATCHLEVEL = 10
+VERSION = 6
+PATCHLEVEL = 12
 
 headers_install:
 	@mkdir -p $(O)/usr/include
