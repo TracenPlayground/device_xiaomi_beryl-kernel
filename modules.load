@@ -186,3 +186,6 @@ mi_schedule.ko
 metis.ko
 perf_helper.ko
 cpumaxfreq.ko
+sla.ko
+minet.ko
+miwill.ko
