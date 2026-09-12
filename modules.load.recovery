@@ -194,3 +194,11 @@ mi_memory.ko
 mi_schedule.ko
 metis.ko
 perf_helper.ko
+scp.ko
+hf_manager.ko
+lct_tp.ko
+xiaomi_tp.ko
+sensorhub.ko
+tui-common.ko
+ts_scp_common.ko
+fts_touch_i2c.ko
